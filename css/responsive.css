@@ -30,7 +30,7 @@
     padding: 1em;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 792px) {
   header .container-fluid {
     background: #272727;
   }
