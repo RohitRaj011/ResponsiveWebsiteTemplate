@@ -26,6 +26,9 @@
   footer .container{
     padding: 8em 0;
   }
+  footer .col-md-6{
+    padding: 1em;
+  }
 }
 @media screen and (max-width: 768px) {
   header .container-fluid {
@@ -45,5 +48,8 @@
   }
   footer .container{
     padding: 8em 0;
+  }
+  footer .col-md-6{
+    padding: 1em;
   }
 }

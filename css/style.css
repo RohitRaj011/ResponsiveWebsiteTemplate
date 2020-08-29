@@ -367,22 +367,28 @@ footer {
   background-color: #091b27;
 }
 footer .container {
-  width: 95%;
-  max-width:960px;
-  padding: 8em 0 8em 6.5em;
-}
-footer .container .col-lg-3 {
-  margin: 1em 0;
+  width: 90%;
+  max-width: 960px;
+  padding: 8em 0;
 }
 footer h2,
 footer h4 {
   color: #fff;
+}
+footer .mission{
+  padding-right: 3em;
+}
+footer .quick-links{
+  padding-left: 6em;
 }
 footer .links li {
   padding: 0.8em 0;
 }
 footer .links li a {
   text-decoration: none !important;
+}
+footer .contact-us{
+  padding-left: 6em;
 }
 footer i{
   color:#63bb30;
