@@ -24,7 +24,7 @@ header {
   background-size: cover;
   background-attachment: scroll;
 }
-.about-page-header{
+.page-header{
   background: linear-gradient(rgba(3, 1, 10, 0.5), rgba(3, 1, 10, 0.5)),
     url("../images/home-banner.jpg");
   background-position: bottom;
@@ -105,7 +105,7 @@ p {
   align-items: center;
   height: 90vh;
 }
-.about-page-banner{
+.page-banner{
   display: flex;
   justify-content: center;
   align-items: center;
