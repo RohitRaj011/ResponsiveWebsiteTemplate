@@ -44,7 +44,7 @@ p {
   z-index: 10;
 }
 .navbar {
-  width: 58%;
+  width: 90%;
   max-width: 1200px;
   margin: 0 auto;
   padding: 1em 0;
@@ -57,7 +57,7 @@ p {
 }
 .nav-item {
   text-transform: uppercase;
-  padding: 0 1.5em !important;
+  padding: 0 2.5vmin !important;
   transition: 0.6s;
 }
 .nav-link {
@@ -78,19 +78,6 @@ p {
 }
 .navbar-brand:hover {
   color: #63bb30;
-}
-.dropdown-item {
-  font-size: 0.8rem;
-  margin: 0;
-}
-.dropdown:hover .dropdown-menu {
-  display: block;
-  margin-top: 0;
-  color: #fff;
-}
-.dropdown-item:hover {
-  background-color: #63bb30;
-  color: #fff;
 }
 .container-fluid.sticky {
   position: fixed;
